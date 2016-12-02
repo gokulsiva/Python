@@ -1,0 +1,10 @@
+shopList = ['apple', 'mango', 'carrot', 'banana']
+name = 'gokul'
+print 'Item 0 is',shopList[0]
+print 'Item 1 is',shopList[1]
+print 'Item 2 is',shopList[2]
+print 'Item 3 is',shopList[3]
+print 'Item -1 is',shopList[-1]
+print 'Item -2 is',shopList[-2]
+print 'Character 0 is',name[0]
+print 'Character -1 is',name[-1]
